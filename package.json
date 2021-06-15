@@ -1,0 +1,29 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^27.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaquilleOriol/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaquilleOriol/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/ShaquilleOriol/TeamProfileGenerator#readme"
+}
